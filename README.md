@@ -2,6 +2,11 @@ Smart Resume Analyser App
 forthebadge made-with-python
 Python 3.6
 
+The proposed resume analyzer using NLP aims to enhance the existing system by incorporating four key modules. Firstly, the "Resume Score" module evaluates resumes by analyzing various
+factors such as skills, experiences, and education, providing a quantitative assessment of candidate suitability for a given job. Secondly, the "Skill Recommendation" module utilizes NLP
+techniques to identify gaps in candidates' skill sets based on job requirements and recommends relevant skills for enhancement. Thirdly, the "Resume Writing Tips" module offers personalized feedback and suggestions to candidates, helping them optimize their resumes for improved visibility and effectiveness. Lastly, the "Career Recommendation" module leverages NLPpowered analysis of candidate profiles to suggest potential career paths or job opportunities aligned with their skills, experiences, and aspirations, thereby providing valuable guidance for professional development and advancement. This comprehensive approach not only streamlines the recruitment process but also empowers candidates to enhance their employability and career prospects
+
+
 Source
 Extracting user's information from the Resume, I used PyResparser
 Extracting Resume PDF into Text, I used PDFMiner.
